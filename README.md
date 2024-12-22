@@ -4,7 +4,6 @@ Discord Nuker. 1k Pings in 15 Seconds
 
  made by cybr.js / me
          
-if skid i report you if i find out
 
 ![image](https://github.com/user-attachments/assets/e7ec80a1-7644-4234-84ca-b25f1720163b)
  
