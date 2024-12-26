@@ -2,7 +2,7 @@
 
 Discord Nuker. 1k Pings in 15 Seconds
 
-[Download](https://github.com/cybr000/catnuker/releases/download/tag/catnuker.py](https://github.com/cybr000/catnuker/releases/download/V2/catnuker.zip)
+[Download](https://github.com/cybr000/catnuker/releases/download/V2/catnuker.zip)
 
  made by cybr | Me
          
